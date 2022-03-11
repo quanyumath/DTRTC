@@ -2,4 +2,4 @@ This is MATLAB implementation of paper "Tensor factorization based method for lo
 
 If you have questions about the code, please email: quanyu@tju.edu.cn
 
-Academic Homepage: quanyu.me
+Academic Homepage: www.quanyu.me
