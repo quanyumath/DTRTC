@@ -2,4 +2,4 @@ This is MATLAB implementation of paper "T-product factorization based method for
 
 If you have questions about the code, please email: quanyu@tju.edu.cn
 
-Academic Homepage: www.quanyu.netlify.app
+Academic Homepage: https://quanyu.netlify.app/
